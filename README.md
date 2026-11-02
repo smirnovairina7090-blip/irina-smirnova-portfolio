@@ -1,5 +1,9 @@
 # Ирина Смирнова — портфолио методиста-методолога
 
+## [Открыть сайт-портфолио ↗](https://smirnovairina7090-blip.github.io/irina-smirnova-portfolio/)
+
+Публичный сайт на GitHub Pages. [Краткое портфолио PDF](https://smirnovairina7090-blip.github.io/irina-smirnova-portfolio/irina-smirnova-portfolio.pdf).
+
 Сайт, семь избранных проектов и краткое портфолио PDF.
 
 Локальный просмотр: `python -m http.server 8787` из папки репозитория, затем открыть http://localhost:8787.
